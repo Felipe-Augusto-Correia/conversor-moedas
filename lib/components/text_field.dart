@@ -25,6 +25,7 @@ class BuildTextField extends StatelessWidget {
         fontSize: 25,
       ),
       onChanged: function,
+      controller: controller,
     );
   }
 }
